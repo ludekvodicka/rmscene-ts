@@ -1,0 +1,475 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 1,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": true,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 1,
+      "mergesCount": 0,
+      "minVersion": 0,
+      "textCharsCount": 0,
+      "textLinesCount": 0,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "11"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 1,
+        "itemId": {
+          "part1": 1,
+          "part2": "14"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": null
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 2,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "15"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "14"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "GREEN",
+            "value": 4
+          },
+          "kind": "glyphRange",
+          "length": 25,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "4048c79f675c5000"
+              },
+              "width": {
+                "$float64": "4071f9a857a45800"
+              },
+              "x": {
+                "$float64": "407e209724d8621c"
+              },
+              "y": {
+                "$float64": "407102894bf6cd00"
+              }
+            },
+            {
+              "height": {
+                "$float64": "4048c79f675c5000"
+              },
+              "width": {
+                "$float64": "4062e5d9e390f000"
+              },
+              "x": {
+                "$float64": "407e0bf90000741c"
+              },
+              "y": {
+                "$float64": "40741b2d3870bd00"
+              }
+            }
+          ],
+          "start": 65,
+          "text": "177 mm × 256 mm× 6.7 mm"
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "16"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "15"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "PINK",
+            "value": 5
+          },
+          "kind": "glyphRange",
+          "length": 4,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "40551d34d6c2cc00"
+              },
+              "width": {
+                "$float64": "4061b301403df600"
+              },
+              "x": {
+                "$float64": "c085cd341dbc0032"
+              },
+              "y": {
+                "$float64": "409ef51b2f925420"
+              }
+            }
+          ],
+          "start": 1746,
+          "text": "also"
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    }
+  ],
+  "text": null,
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "13"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 1,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "14"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": null
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "15"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "14"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "16"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "15"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "14"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "15"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "16"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "12"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "11"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "13"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    "rootText": false,
+    "sceneInfo": null
+  }
+}

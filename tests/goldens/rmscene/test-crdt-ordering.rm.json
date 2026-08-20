@@ -1,0 +1,484 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 2,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        },
+        {
+          "authorId": 1,
+          "uuid": "40e2c0ec-9d88-325c-99de-c49ef61cf4b3"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": false,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 3,
+      "mergesCount": 1,
+      "minVersion": 0,
+      "textCharsCount": 6,
+      "textLinesCount": 1,
+      "typeFolioUseCount": 0
+    },
+    {
+      "backgroundVisible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      },
+      "blockType": 13,
+      "currentLayer": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "0"
+        }
+      },
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": "6c280000001f00002c2000000000000000000000000000000000000000000000000000000000000000000000007c100000000000000000f095400000000000409d408c01180000001f00002c100000000000000000f095400000000000409d40"
+      },
+      "kind": "sceneInfo",
+      "minVersion": 0,
+      "paperSize": [
+        1404,
+        1872
+      ],
+      "rootDocumentVisible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "blockType": 7,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": "5c0d0000001c080000001f00022400009044"
+      },
+      "kind": "rootText",
+      "minVersion": 1,
+      "value": {
+        "items": {
+          "items": [
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "16"
+              },
+              "leftId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "A"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 2,
+                "part2": "18"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "16"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "value": "12"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "18"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "16"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "value": "_"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "16"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "Z"
+            }
+          ],
+          "order": [
+            {
+              "part1": 1,
+              "part2": "16"
+            },
+            {
+              "part1": 2,
+              "part2": "18"
+            },
+            {
+              "part1": 1,
+              "part2": "18"
+            },
+            {
+              "part1": 1,
+              "part2": "17"
+            }
+          ]
+        },
+        "kind": "text",
+        "posX": {
+          "$float64": "c082000000000000"
+        },
+        "posY": {
+          "$float64": "406d400000000000"
+        },
+        "styles": [
+          {
+            "characterId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 1,
+                "part2": "15"
+              },
+              "value": {
+                "name": "HEADING",
+                "value": 2
+              }
+            }
+          }
+        ],
+        "width": {
+          "$float64": "4092000000000000"
+        }
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "11"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    }
+  ],
+  "text": {
+    "contents": [
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "16"
+              },
+              {
+                "part1": 2,
+                "part2": "18"
+              },
+              {
+                "part1": 2,
+                "part2": "19"
+              },
+              {
+                "part1": 1,
+                "part2": "18"
+              },
+              {
+                "part1": 1,
+                "part2": "17"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "A12_Z"
+          }
+        ],
+        "startId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "15"
+          },
+          "value": {
+            "name": "HEADING",
+            "value": 2
+          }
+        }
+      }
+    ]
+  },
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "13"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [],
+                "order": []
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "12"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "11"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "13"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    "rootText": true,
+    "sceneInfo": {
+      "currentLayer": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "0"
+        }
+      },
+      "paperSize": [
+        1404,
+        1872
+      ]
+    }
+  }
+}

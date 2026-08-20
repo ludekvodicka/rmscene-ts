@@ -1,0 +1,2482 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 1,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": false,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": true
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 3,
+      "mergesCount": 0,
+      "minVersion": 0,
+      "textCharsCount": 9,
+      "textLinesCount": 2,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "13"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "17"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "20"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 1,
+        "part2": "17"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "26"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "39"
+      }
+    },
+    {
+      "blockId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "blockType": 7,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "rootText",
+      "minVersion": 1,
+      "value": {
+        "items": {
+          "items": [
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "14"
+              },
+              "leftId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "A"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "32"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "14"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "\nv3.2.2"
+            }
+          ],
+          "order": [
+            {
+              "part1": 1,
+              "part2": "14"
+            },
+            {
+              "part1": 1,
+              "part2": "32"
+            }
+          ]
+        },
+        "kind": "text",
+        "posX": {
+          "$float64": "c07d400000000000"
+        },
+        "posY": {
+          "$float64": "406d400000000000"
+        },
+        "styles": [],
+        "width": {
+          "$float64": "408d400000000000"
+        }
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "11"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "15"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "16"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "18"
+          },
+          "value": "Layer 2"
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "17"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "anchorId": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "22"
+          },
+          "value": {
+            "part1": 1,
+            "part2": "14"
+          }
+        },
+        "anchorOriginX": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "20"
+          },
+          "value": {
+            "$float64": "c07d000000000000"
+          }
+        },
+        "anchorThreshold": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "24"
+          },
+          "value": {
+            "$float64": "4050c1c380000000"
+          }
+        },
+        "anchorType": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "23"
+          },
+          "value": 2
+        },
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "20"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "anchorId": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "28"
+          },
+          "value": {
+            "part1": 1,
+            "part2": "14"
+          }
+        },
+        "anchorOriginX": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "26"
+          },
+          "value": {
+            "$float64": "c07d000000000000"
+          }
+        },
+        "anchorThreshold": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "30"
+          },
+          "value": {
+            "$float64": "4050c1c380000000"
+          }
+        },
+        "anchorType": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "29"
+          },
+          "value": 2
+        },
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "26"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "anchorId": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "41"
+          },
+          "value": {
+            "part1": 1,
+            "part2": "38"
+          }
+        },
+        "anchorOriginX": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "39"
+          },
+          "value": {
+            "$float64": "c078c98000000000"
+          }
+        },
+        "anchorThreshold": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "43"
+          },
+          "value": {
+            "$float64": "4050c1c380000000"
+          }
+        },
+        "anchorType": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "42"
+          },
+          "value": 2
+        },
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "39"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "14"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "13"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "19"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "14"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "17"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "21"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "20"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "40"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "21"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "39"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "27"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "26"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "17"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "25"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "BLACK",
+            "value": 0
+          },
+          "kind": "line",
+          "points": [
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "4026000000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c03056fc00000000"
+              },
+              "y": {
+                "$float64": "c03e6ae200000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "403b000000000000"
+              },
+              "pressure": {
+                "$float64": "4067e00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02f832800000000"
+              },
+              "y": {
+                "$float64": "c03e14f500000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406b400000000000"
+              },
+              "pressure": {
+                "$float64": "406ba00000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e9b7400000000"
+              },
+              "y": {
+                "$float64": "c03e8a2900000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4050000000000000"
+              },
+              "pressure": {
+                "$float64": "406ce00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e757800000000"
+              },
+              "y": {
+                "$float64": "c03e152c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4062e00000000000"
+              },
+              "pressure": {
+                "$float64": "406d200000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02ecc8000000000"
+              },
+              "y": {
+                "$float64": "c03e61da00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4026000000000000"
+              },
+              "pressure": {
+                "$float64": "406d200000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e269000000000"
+              },
+              "y": {
+                "$float64": "c03e495a00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "4059000000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02f780000000000"
+              },
+              "y": {
+                "$float64": "c03ea90f00000000"
+              }
+            }
+          ],
+          "startingLength": {
+            "$float64": "0000000000000000"
+          },
+          "thicknessScale": {
+            "$float64": "4000000000000000"
+          },
+          "tool": {
+            "name": "FINELINER_2",
+            "value": 17
+          }
+        }
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "20"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "31"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "BLACK",
+            "value": 0
+          },
+          "kind": "line",
+          "points": [
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "402e000000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "4042176300000000"
+              },
+              "y": {
+                "$float64": "402ca07000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406fa00000000000"
+              },
+              "pressure": {
+                "$float64": "4063800000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "4042402400000000"
+              },
+              "y": {
+                "$float64": "402d32fc00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4068600000000000"
+              },
+              "pressure": {
+                "$float64": "4065400000000000"
+              },
+              "speed": {
+                "$float64": "4010000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40423ec800000000"
+              },
+              "y": {
+                "$float64": "402bd0e800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4041800000000000"
+              },
+              "pressure": {
+                "$float64": "406a400000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "404250a400000000"
+              },
+              "y": {
+                "$float64": "402da39800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4061e00000000000"
+              },
+              "pressure": {
+                "$float64": "406c600000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40422e4f00000000"
+              },
+              "y": {
+                "$float64": "402e059800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4050000000000000"
+              },
+              "pressure": {
+                "$float64": "406c600000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40424bf500000000"
+              },
+              "y": {
+                "$float64": "402f5c4c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "405fc00000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40424ba900000000"
+              },
+              "y": {
+                "$float64": "402e9fa000000000"
+              }
+            }
+          ],
+          "startingLength": {
+            "$float64": "0000000000000000"
+          },
+          "thicknessScale": {
+            "$float64": "4000000000000000"
+          },
+          "tool": {
+            "name": "FINELINER_2",
+            "value": 17
+          }
+        }
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "26"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 2,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "44"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "BLACK",
+            "value": 0
+          },
+          "kind": "line",
+          "points": [
+            {
+              "direction": {
+                "$float64": "4058c00000000000"
+              },
+              "pressure": {
+                "$float64": "4000000000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40463f3c00000000"
+              },
+              "y": {
+                "$float64": "c024f67000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4055c00000000000"
+              },
+              "pressure": {
+                "$float64": "4045000000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404610e400000000"
+              },
+              "y": {
+                "$float64": "c02380fc00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4065400000000000"
+              },
+              "pressure": {
+                "$float64": "404c000000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4045f97d00000000"
+              },
+              "y": {
+                "$float64": "c023e42c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4058c00000000000"
+              },
+              "pressure": {
+                "$float64": "404f000000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046067d00000000"
+              },
+              "y": {
+                "$float64": "c0234d8800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4066600000000000"
+              },
+              "pressure": {
+                "$float64": "4064e00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046053f00000000"
+              },
+              "y": {
+                "$float64": "c026086400000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406c400000000000"
+              },
+              "pressure": {
+                "$float64": "4069400000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40462ebc00000000"
+              },
+              "y": {
+                "$float64": "c027437800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4045800000000000"
+              },
+              "pressure": {
+                "$float64": "406a800000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046471700000000"
+              },
+              "y": {
+                "$float64": "c026183800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405a400000000000"
+              },
+              "pressure": {
+                "$float64": "406aa00000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40463b2400000000"
+              },
+              "y": {
+                "$float64": "c026c22800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4050400000000000"
+              },
+              "pressure": {
+                "$float64": "406b000000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046370300000000"
+              },
+              "y": {
+                "$float64": "c025c04c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4053000000000000"
+              },
+              "pressure": {
+                "$float64": "406b200000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046164300000000"
+              },
+              "y": {
+                "$float64": "c026610800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4038000000000000"
+              },
+              "pressure": {
+                "$float64": "406aa00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4046506400000000"
+              },
+              "y": {
+                "$float64": "c025862c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405dc00000000000"
+              },
+              "pressure": {
+                "$float64": "406aa00000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404661c600000000"
+              },
+              "y": {
+                "$float64": "c025e0a800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "404c800000000000"
+              },
+              "pressure": {
+                "$float64": "406ac00000000000"
+              },
+              "speed": {
+                "$float64": "4014000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4047602100000000"
+              },
+              "y": {
+                "$float64": "c0172fc000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4046000000000000"
+              },
+              "pressure": {
+                "$float64": "406b200000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4048d65400000000"
+              },
+              "y": {
+                "$float64": "bffe402000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4060e00000000000"
+              },
+              "pressure": {
+                "$float64": "406b200000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404908a300000000"
+              },
+              "y": {
+                "$float64": "bffcfd6000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4042800000000000"
+              },
+              "pressure": {
+                "$float64": "406b400000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404971ec00000000"
+              },
+              "y": {
+                "$float64": "3fc4880000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4054c00000000000"
+              },
+              "pressure": {
+                "$float64": "406b400000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049661800000000"
+              },
+              "y": {
+                "$float64": "3fefe7c000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4033000000000000"
+              },
+              "pressure": {
+                "$float64": "406b400000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049a08f00000000"
+              },
+              "y": {
+                "$float64": "3ff3934000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "404a800000000000"
+              },
+              "pressure": {
+                "$float64": "406b400000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049ae6700000000"
+              },
+              "y": {
+                "$float64": "3ffb0c0000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4060000000000000"
+              },
+              "pressure": {
+                "$float64": "406b800000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049b02c00000000"
+              },
+              "y": {
+                "$float64": "3ff3284000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405e800000000000"
+              },
+              "pressure": {
+                "$float64": "406ba00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049d6cb00000000"
+              },
+              "y": {
+                "$float64": "3ff404e000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4061c00000000000"
+              },
+              "pressure": {
+                "$float64": "406cc00000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049a48e00000000"
+              },
+              "y": {
+                "$float64": "3ff29f0000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4066e00000000000"
+              },
+              "pressure": {
+                "$float64": "406d400000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40499aee00000000"
+              },
+              "y": {
+                "$float64": "3fe41c4000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4038000000000000"
+              },
+              "pressure": {
+                "$float64": "406d800000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049c7ac00000000"
+              },
+              "y": {
+                "$float64": "3fec790000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4060e00000000000"
+              },
+              "pressure": {
+                "$float64": "406da00000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049a29000000000"
+              },
+              "y": {
+                "$float64": "3fea790000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4018000000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049ea8100000000"
+              },
+              "y": {
+                "$float64": "3fe8c00000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4064c00000000000"
+              },
+              "pressure": {
+                "$float64": "406e000000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049eb3f00000000"
+              },
+              "y": {
+                "$float64": "3fe17d0000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405e000000000000"
+              },
+              "pressure": {
+                "$float64": "406e200000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404a05ad00000000"
+              },
+              "y": {
+                "$float64": "3fe79e4000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4066c00000000000"
+              },
+              "pressure": {
+                "$float64": "406e200000000000"
+              },
+              "speed": {
+                "$float64": "4000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4049e86d00000000"
+              },
+              "y": {
+                "$float64": "bf9c280000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406c800000000000"
+              },
+              "pressure": {
+                "$float64": "406e200000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404a204700000000"
+              },
+              "y": {
+                "$float64": "bfd55a0000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4069a00000000000"
+              },
+              "pressure": {
+                "$float64": "406e200000000000"
+              },
+              "speed": {
+                "$float64": "4018000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404aa23400000000"
+              },
+              "y": {
+                "$float64": "c0076ed000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406b600000000000"
+              },
+              "pressure": {
+                "$float64": "406e000000000000"
+              },
+              "speed": {
+                "$float64": "401c000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404b9f6000000000"
+              },
+              "y": {
+                "$float64": "c014d0d000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406c800000000000"
+              },
+              "pressure": {
+                "$float64": "406e000000000000"
+              },
+              "speed": {
+                "$float64": "4024000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404e53a200000000"
+              },
+              "y": {
+                "$float64": "c02358e800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406ba00000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "4026000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "404fa7ba00000000"
+              },
+              "y": {
+                "$float64": "c02958fc00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406c800000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "4024000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40502f8e80000000"
+              },
+              "y": {
+                "$float64": "c02b90e400000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406b200000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "4018000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4051e7cf00000000"
+              },
+              "y": {
+                "$float64": "c0354c8800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406ca00000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "4014000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40523fee00000000"
+              },
+              "y": {
+                "$float64": "c0366b6000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4069c00000000000"
+              },
+              "pressure": {
+                "$float64": "406de00000000000"
+              },
+              "speed": {
+                "$float64": "401c000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "40525c6d00000000"
+              },
+              "y": {
+                "$float64": "c0379f8200000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405d400000000000"
+              },
+              "pressure": {
+                "$float64": "406d400000000000"
+              },
+              "speed": {
+                "$float64": "3ff0000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4052e72f80000000"
+              },
+              "y": {
+                "$float64": "c038a8bc00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4065e00000000000"
+              },
+              "pressure": {
+                "$float64": "406ca00000000000"
+              },
+              "speed": {
+                "$float64": "4008000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4052e35a00000000"
+              },
+              "y": {
+                "$float64": "c039125600000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "4059c00000000000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4020000000000000"
+              },
+              "x": {
+                "$float64": "4052da9000000000"
+              },
+              "y": {
+                "$float64": "c038734200000000"
+              }
+            }
+          ],
+          "startingLength": {
+            "$float64": "0000000000000000"
+          },
+          "thicknessScale": {
+            "$float64": "3ff0000000000000"
+          },
+          "tool": {
+            "name": "FINELINER_2",
+            "value": 17
+          }
+        }
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 2,
+      "parentId": {
+        "part1": 1,
+        "part2": "39"
+      }
+    }
+  ],
+  "text": {
+    "contents": [
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "14"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "A"
+          }
+        ],
+        "startId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": {
+            "name": "PLAIN",
+            "value": 1
+          }
+        }
+      },
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "33"
+              },
+              {
+                "part1": 1,
+                "part2": "34"
+              },
+              {
+                "part1": 1,
+                "part2": "35"
+              },
+              {
+                "part1": 1,
+                "part2": "36"
+              },
+              {
+                "part1": 1,
+                "part2": "37"
+              },
+              {
+                "part1": 1,
+                "part2": "38"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "v3.2.2"
+          }
+        ],
+        "startId": {
+          "part1": 1,
+          "part2": "32"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": {
+            "name": "PLAIN",
+            "value": 1
+          }
+        }
+      }
+    ]
+  },
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "14"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "21"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "anchorId": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "22"
+                        },
+                        "value": {
+                          "part1": 1,
+                          "part2": "14"
+                        }
+                      },
+                      "anchorOriginX": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "20"
+                        },
+                        "value": {
+                          "$float64": "c07d000000000000"
+                        }
+                      },
+                      "anchorThreshold": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "24"
+                        },
+                        "value": {
+                          "$float64": "4050c1c380000000"
+                        }
+                      },
+                      "anchorType": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "23"
+                        },
+                        "value": 2
+                      },
+                      "children": {
+                        "items": [
+                          {
+                            "deletedLength": 0,
+                            "itemId": {
+                              "part1": 1,
+                              "part2": "25"
+                            },
+                            "leftId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "rightId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "value": {
+                              "kind": "line"
+                            }
+                          }
+                        ],
+                        "order": [
+                          {
+                            "part1": 1,
+                            "part2": "25"
+                          }
+                        ]
+                      },
+                      "kind": "group",
+                      "label": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": ""
+                      },
+                      "nodeId": {
+                        "part1": 1,
+                        "part2": "20"
+                      },
+                      "visible": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": true
+                      }
+                    }
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "40"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "21"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "anchorId": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "41"
+                        },
+                        "value": {
+                          "part1": 1,
+                          "part2": "38"
+                        }
+                      },
+                      "anchorOriginX": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "39"
+                        },
+                        "value": {
+                          "$float64": "c078c98000000000"
+                        }
+                      },
+                      "anchorThreshold": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "43"
+                        },
+                        "value": {
+                          "$float64": "4050c1c380000000"
+                        }
+                      },
+                      "anchorType": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "42"
+                        },
+                        "value": 2
+                      },
+                      "children": {
+                        "items": [
+                          {
+                            "deletedLength": 0,
+                            "itemId": {
+                              "part1": 1,
+                              "part2": "44"
+                            },
+                            "leftId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "rightId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "value": {
+                              "kind": "line"
+                            }
+                          }
+                        ],
+                        "order": [
+                          {
+                            "part1": 1,
+                            "part2": "44"
+                          }
+                        ]
+                      },
+                      "kind": "group",
+                      "label": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": ""
+                      },
+                      "nodeId": {
+                        "part1": 1,
+                        "part2": "39"
+                      },
+                      "visible": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": true
+                      }
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "21"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "40"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "15"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "13"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "16"
+                },
+                "value": true
+              }
+            }
+          },
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 1,
+              "part2": "19"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "14"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "27"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "anchorId": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "28"
+                        },
+                        "value": {
+                          "part1": 1,
+                          "part2": "14"
+                        }
+                      },
+                      "anchorOriginX": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "26"
+                        },
+                        "value": {
+                          "$float64": "c07d000000000000"
+                        }
+                      },
+                      "anchorThreshold": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "30"
+                        },
+                        "value": {
+                          "$float64": "4050c1c380000000"
+                        }
+                      },
+                      "anchorType": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "29"
+                        },
+                        "value": 2
+                      },
+                      "children": {
+                        "items": [
+                          {
+                            "deletedLength": 0,
+                            "itemId": {
+                              "part1": 1,
+                              "part2": "31"
+                            },
+                            "leftId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "rightId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "value": {
+                              "kind": "line"
+                            }
+                          }
+                        ],
+                        "order": [
+                          {
+                            "part1": 1,
+                            "part2": "31"
+                          }
+                        ]
+                      },
+                      "kind": "group",
+                      "label": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": ""
+                      },
+                      "nodeId": {
+                        "part1": 1,
+                        "part2": "26"
+                      },
+                      "visible": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": true
+                      }
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "27"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 1,
+                  "part2": "18"
+                },
+                "value": "Layer 2"
+              },
+              "nodeId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "14"
+          },
+          {
+            "part1": 1,
+            "part2": "19"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "12"
+        },
+        "value": true
+      }
+    },
+    "rootText": true,
+    "sceneInfo": null
+  }
+}

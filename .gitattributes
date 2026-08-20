@@ -1,0 +1,4 @@
+*.rm binary
+*.json text eol=lf
+*.ts text eol=lf
+*.md text eol=lf

@@ -1,0 +1,817 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 2,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        },
+        {
+          "authorId": 1,
+          "uuid": "1dd69609-bcd9-a55e-a184-a3a329bf9956"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": false,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 15,
+      "mergesCount": 1,
+      "minVersion": 0,
+      "textCharsCount": 43,
+      "textLinesCount": 4,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "blockType": 7,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "rootText",
+      "minVersion": 1,
+      "value": {
+        "items": {
+          "items": [
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "leftId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "A"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 2,
+                "part2": "60"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "18"
+              },
+              "value": "\nnew line"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "18"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "\nB"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "22"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "19"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "20"
+              },
+              "value": " is "
+            },
+            {
+              "deletedLength": 10,
+              "itemId": {
+                "part1": 1,
+                "part2": "26"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "25"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "20"
+              },
+              "value": ""
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 2,
+                "part2": "59"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "35"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "36"
+              },
+              "value": "a"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "36"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "35"
+              },
+              "rightId": {
+                "part1": 1,
+                "part2": "20"
+              },
+              "value": " letter of the alphabet"
+            },
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "20"
+              },
+              "leftId": {
+                "part1": 1,
+                "part2": "19"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "\nC"
+            }
+          ],
+          "order": [
+            {
+              "part1": 2,
+              "part2": "59"
+            },
+            {
+              "part1": 1,
+              "part2": "17"
+            },
+            {
+              "part1": 2,
+              "part2": "60"
+            },
+            {
+              "part1": 1,
+              "part2": "18"
+            },
+            {
+              "part1": 1,
+              "part2": "22"
+            },
+            {
+              "part1": 1,
+              "part2": "26"
+            },
+            {
+              "part1": 1,
+              "part2": "36"
+            },
+            {
+              "part1": 1,
+              "part2": "20"
+            }
+          ]
+        },
+        "kind": "text",
+        "posX": {
+          "$float64": "c07d400000000000"
+        },
+        "posY": {
+          "$float64": "406d400000000000"
+        },
+        "styles": [
+          {
+            "characterId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 2,
+                "part2": "59"
+              },
+              "value": {
+                "name": "BOLD",
+                "value": 3
+              }
+            }
+          },
+          {
+            "characterId": {
+              "part1": 1,
+              "part2": "18"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 1,
+                "part2": "22"
+              },
+              "value": {
+                "name": "BULLET",
+                "value": 4
+              }
+            }
+          },
+          {
+            "characterId": {
+              "part1": 1,
+              "part2": "20"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 2,
+                "part2": "22"
+              },
+              "value": {
+                "name": "PLAIN",
+                "value": 1
+              }
+            }
+          },
+          {
+            "characterId": {
+              "part1": 2,
+              "part2": "60"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 2,
+                "part2": "69"
+              },
+              "value": {
+                "name": "HEADING",
+                "value": 2
+              }
+            }
+          }
+        ],
+        "width": {
+          "$float64": "408d400000000000"
+        }
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "11"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    }
+  ],
+  "text": {
+    "contents": [
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "17"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "A"
+          }
+        ],
+        "startId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 2,
+            "part2": "59"
+          },
+          "value": {
+            "name": "BOLD",
+            "value": 3
+          }
+        }
+      },
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 2,
+                "part2": "61"
+              },
+              {
+                "part1": 2,
+                "part2": "62"
+              },
+              {
+                "part1": 2,
+                "part2": "63"
+              },
+              {
+                "part1": 2,
+                "part2": "64"
+              },
+              {
+                "part1": 2,
+                "part2": "65"
+              },
+              {
+                "part1": 2,
+                "part2": "66"
+              },
+              {
+                "part1": 2,
+                "part2": "67"
+              },
+              {
+                "part1": 2,
+                "part2": "68"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "new line"
+          }
+        ],
+        "startId": {
+          "part1": 2,
+          "part2": "60"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 2,
+            "part2": "69"
+          },
+          "value": {
+            "name": "HEADING",
+            "value": 2
+          }
+        }
+      },
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "19"
+              },
+              {
+                "part1": 1,
+                "part2": "22"
+              },
+              {
+                "part1": 1,
+                "part2": "23"
+              },
+              {
+                "part1": 1,
+                "part2": "24"
+              },
+              {
+                "part1": 1,
+                "part2": "25"
+              },
+              {
+                "part1": 1,
+                "part2": "26"
+              },
+              {
+                "part1": 1,
+                "part2": "27"
+              },
+              {
+                "part1": 1,
+                "part2": "28"
+              },
+              {
+                "part1": 1,
+                "part2": "29"
+              },
+              {
+                "part1": 1,
+                "part2": "30"
+              },
+              {
+                "part1": 1,
+                "part2": "31"
+              },
+              {
+                "part1": 1,
+                "part2": "32"
+              },
+              {
+                "part1": 1,
+                "part2": "33"
+              },
+              {
+                "part1": 1,
+                "part2": "34"
+              },
+              {
+                "part1": 1,
+                "part2": "35"
+              },
+              {
+                "part1": 2,
+                "part2": "59"
+              },
+              {
+                "part1": 1,
+                "part2": "36"
+              },
+              {
+                "part1": 1,
+                "part2": "37"
+              },
+              {
+                "part1": 1,
+                "part2": "38"
+              },
+              {
+                "part1": 1,
+                "part2": "39"
+              },
+              {
+                "part1": 1,
+                "part2": "40"
+              },
+              {
+                "part1": 1,
+                "part2": "41"
+              },
+              {
+                "part1": 1,
+                "part2": "42"
+              },
+              {
+                "part1": 1,
+                "part2": "43"
+              },
+              {
+                "part1": 1,
+                "part2": "44"
+              },
+              {
+                "part1": 1,
+                "part2": "45"
+              },
+              {
+                "part1": 1,
+                "part2": "46"
+              },
+              {
+                "part1": 1,
+                "part2": "47"
+              },
+              {
+                "part1": 1,
+                "part2": "48"
+              },
+              {
+                "part1": 1,
+                "part2": "49"
+              },
+              {
+                "part1": 1,
+                "part2": "50"
+              },
+              {
+                "part1": 1,
+                "part2": "51"
+              },
+              {
+                "part1": 1,
+                "part2": "52"
+              },
+              {
+                "part1": 1,
+                "part2": "53"
+              },
+              {
+                "part1": 1,
+                "part2": "54"
+              },
+              {
+                "part1": 1,
+                "part2": "55"
+              },
+              {
+                "part1": 1,
+                "part2": "56"
+              },
+              {
+                "part1": 1,
+                "part2": "57"
+              },
+              {
+                "part1": 1,
+                "part2": "58"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "B is a letter of the alphabet"
+          }
+        ],
+        "startId": {
+          "part1": 1,
+          "part2": "18"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "22"
+          },
+          "value": {
+            "name": "BULLET",
+            "value": 4
+          }
+        }
+      },
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "21"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "C"
+          }
+        ],
+        "startId": {
+          "part1": 1,
+          "part2": "20"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 2,
+            "part2": "22"
+          },
+          "value": {
+            "name": "PLAIN",
+            "value": 1
+          }
+        }
+      }
+    ]
+  },
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "13"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [],
+                "order": []
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "12"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "11"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "13"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    "rootText": true,
+    "sceneInfo": null
+  }
+}

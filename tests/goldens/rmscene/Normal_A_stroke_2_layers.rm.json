@@ -1,0 +1,1312 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 1,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": false,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 2,
+      "mergesCount": 0,
+      "minVersion": 0,
+      "textCharsCount": 2,
+      "textLinesCount": 1,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "13"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "17"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "20"
+      }
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 1,
+        "part2": "17"
+      },
+      "treeId": {
+        "part1": 1,
+        "part2": "26"
+      }
+    },
+    {
+      "blockId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "blockType": 7,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "rootText",
+      "minVersion": 1,
+      "value": {
+        "items": {
+          "items": [
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "14"
+              },
+              "leftId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "A"
+            }
+          ],
+          "order": [
+            {
+              "part1": 1,
+              "part2": "14"
+            }
+          ]
+        },
+        "kind": "text",
+        "posX": {
+          "$float64": "c07d400000000000"
+        },
+        "posY": {
+          "$float64": "406d400000000000"
+        },
+        "styles": [],
+        "width": {
+          "$float64": "408d400000000000"
+        }
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "11"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "15"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "16"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "18"
+          },
+          "value": "Layer 2"
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "17"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "anchorId": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "22"
+          },
+          "value": {
+            "part1": 1,
+            "part2": "14"
+          }
+        },
+        "anchorOriginX": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "20"
+          },
+          "value": {
+            "$float64": "c07d000000000000"
+          }
+        },
+        "anchorThreshold": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "24"
+          },
+          "value": {
+            "$float64": "4050c1c380000000"
+          }
+        },
+        "anchorType": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "23"
+          },
+          "value": 2
+        },
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "20"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "anchorId": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "28"
+          },
+          "value": {
+            "part1": 1,
+            "part2": "14"
+          }
+        },
+        "anchorOriginX": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "26"
+          },
+          "value": {
+            "$float64": "c07d000000000000"
+          }
+        },
+        "anchorThreshold": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "30"
+          },
+          "value": {
+            "$float64": "4050c1c380000000"
+          }
+        },
+        "anchorType": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "29"
+          },
+          "value": 2
+        },
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 1,
+          "part2": "26"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "14"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "13"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "19"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "14"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "17"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "21"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "20"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "13"
+      }
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "27"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 1,
+          "part2": "26"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "17"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "25"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "BLACK",
+            "value": 0
+          },
+          "kind": "line",
+          "points": [
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "4026a44a5aa00000"
+              },
+              "speed": {
+                "$float64": "3fd831cce0000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c03056fc00000000"
+              },
+              "y": {
+                "$float64": "c03e6ae200000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "403a960353b4ae3f"
+              },
+              "pressure": {
+                "$float64": "4067d7ed42e00000"
+              },
+              "speed": {
+                "$float64": "4002fb4440000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02f832800000000"
+              },
+              "y": {
+                "$float64": "c03e14f500000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406b34bcfb96cd90"
+              },
+              "pressure": {
+                "$float64": "406b9fa6bde00000"
+              },
+              "speed": {
+                "$float64": "3fecb4cd40000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e9b7400000000"
+              },
+              "y": {
+                "$float64": "c03e8a2900000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "405004a84d3fd477"
+              },
+              "pressure": {
+                "$float64": "406ceac94ee00000"
+              },
+              "speed": {
+                "$float64": "40036a4f60000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e757800000000"
+              },
+              "y": {
+                "$float64": "c03e152c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4062e128dfba1fcb"
+              },
+              "pressure": {
+                "$float64": "406d129cf3400000"
+              },
+              "speed": {
+                "$float64": "3fef2a71e0000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02ecc8000000000"
+              },
+              "y": {
+                "$float64": "c03e61da00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4025b5c6354b6f62"
+              },
+              "pressure": {
+                "$float64": "406d21922f000000"
+              },
+              "speed": {
+                "$float64": "3ffd45eb00000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02e269000000000"
+              },
+              "y": {
+                "$float64": "c03e495a00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "4058e387bbc00000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "c02f780000000000"
+              },
+              "y": {
+                "$float64": "c03ea90f00000000"
+              }
+            }
+          ],
+          "startingLength": {
+            "$float64": "0000000000000000"
+          },
+          "thicknessScale": {
+            "$float64": "4000000000000000"
+          },
+          "tool": {
+            "name": "FINELINER_2",
+            "value": 17
+          }
+        }
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "20"
+      }
+    },
+    {
+      "blockType": 5,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "31"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "BLACK",
+            "value": 0
+          },
+          "kind": "line",
+          "points": [
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "402ebfdc25200000"
+              },
+              "speed": {
+                "$float64": "3fa3e999a0000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "4042176300000000"
+              },
+              "y": {
+                "$float64": "402ca07000000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406faeb549999f5b"
+              },
+              "pressure": {
+                "$float64": "4063734b6dc00000"
+              },
+              "speed": {
+                "$float64": "3feeaef180000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "4042402400000000"
+              },
+              "y": {
+                "$float64": "402d32fc00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "406867daefa288e8"
+              },
+              "pressure": {
+                "$float64": "4065329047e00000"
+              },
+              "speed": {
+                "$float64": "400e736e40000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40423ec800000000"
+              },
+              "y": {
+                "$float64": "402bd0e800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "404161c123416257"
+              },
+              "pressure": {
+                "$float64": "406a42168d000000"
+              },
+              "speed": {
+                "$float64": "3fe44c3a00000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "404250a400000000"
+              },
+              "y": {
+                "$float64": "402da39800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "4061eff26e7651eb"
+              },
+              "pressure": {
+                "$float64": "406c55c34a800000"
+              },
+              "speed": {
+                "$float64": "3ff33a4f40000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40422e4f00000000"
+              },
+              "y": {
+                "$float64": "402e059800000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "40501793044a8dc8"
+              },
+              "pressure": {
+                "$float64": "406c635e22000000"
+              },
+              "speed": {
+                "$float64": "400097d180000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40424bf500000000"
+              },
+              "y": {
+                "$float64": "402f5c4c00000000"
+              }
+            },
+            {
+              "direction": {
+                "$float64": "0000000000000000"
+              },
+              "pressure": {
+                "$float64": "405fdea7d9800000"
+              },
+              "speed": {
+                "$float64": "0000000000000000"
+              },
+              "width": {
+                "$float64": "4030000000000000"
+              },
+              "x": {
+                "$float64": "40424ba900000000"
+              },
+              "y": {
+                "$float64": "402e9fa000000000"
+              }
+            }
+          ],
+          "startingLength": {
+            "$float64": "0000000000000000"
+          },
+          "thicknessScale": {
+            "$float64": "4000000000000000"
+          },
+          "tool": {
+            "name": "FINELINER_2",
+            "value": 17
+          }
+        }
+      },
+      "kind": "sceneLineItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 1,
+        "part2": "26"
+      }
+    }
+  ],
+  "text": {
+    "contents": [
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "14"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "A"
+          }
+        ],
+        "startId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": {
+            "name": "PLAIN",
+            "value": 1
+          }
+        }
+      }
+    ]
+  },
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "14"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "21"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "anchorId": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "22"
+                        },
+                        "value": {
+                          "part1": 1,
+                          "part2": "14"
+                        }
+                      },
+                      "anchorOriginX": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "20"
+                        },
+                        "value": {
+                          "$float64": "c07d000000000000"
+                        }
+                      },
+                      "anchorThreshold": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "24"
+                        },
+                        "value": {
+                          "$float64": "4050c1c380000000"
+                        }
+                      },
+                      "anchorType": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "23"
+                        },
+                        "value": 2
+                      },
+                      "children": {
+                        "items": [
+                          {
+                            "deletedLength": 0,
+                            "itemId": {
+                              "part1": 1,
+                              "part2": "25"
+                            },
+                            "leftId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "rightId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "value": {
+                              "kind": "line"
+                            }
+                          }
+                        ],
+                        "order": [
+                          {
+                            "part1": 1,
+                            "part2": "25"
+                          }
+                        ]
+                      },
+                      "kind": "group",
+                      "label": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": ""
+                      },
+                      "nodeId": {
+                        "part1": 1,
+                        "part2": "20"
+                      },
+                      "visible": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": true
+                      }
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "21"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "15"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "13"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "16"
+                },
+                "value": true
+              }
+            }
+          },
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 1,
+              "part2": "19"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "14"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "27"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "anchorId": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "28"
+                        },
+                        "value": {
+                          "part1": 1,
+                          "part2": "14"
+                        }
+                      },
+                      "anchorOriginX": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "26"
+                        },
+                        "value": {
+                          "$float64": "c07d000000000000"
+                        }
+                      },
+                      "anchorThreshold": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "30"
+                        },
+                        "value": {
+                          "$float64": "4050c1c380000000"
+                        }
+                      },
+                      "anchorType": {
+                        "timestamp": {
+                          "part1": 1,
+                          "part2": "29"
+                        },
+                        "value": 2
+                      },
+                      "children": {
+                        "items": [
+                          {
+                            "deletedLength": 0,
+                            "itemId": {
+                              "part1": 1,
+                              "part2": "31"
+                            },
+                            "leftId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "rightId": {
+                              "part1": 0,
+                              "part2": "0"
+                            },
+                            "value": {
+                              "kind": "line"
+                            }
+                          }
+                        ],
+                        "order": [
+                          {
+                            "part1": 1,
+                            "part2": "31"
+                          }
+                        ]
+                      },
+                      "kind": "group",
+                      "label": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": ""
+                      },
+                      "nodeId": {
+                        "part1": 1,
+                        "part2": "26"
+                      },
+                      "visible": {
+                        "timestamp": {
+                          "part1": 0,
+                          "part2": "0"
+                        },
+                        "value": true
+                      }
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "27"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 1,
+                  "part2": "18"
+                },
+                "value": "Layer 2"
+              },
+              "nodeId": {
+                "part1": 1,
+                "part2": "17"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "14"
+          },
+          {
+            "part1": 1,
+            "part2": "19"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "12"
+        },
+        "value": true
+      }
+    },
+    "rootText": true,
+    "sceneInfo": null
+  }
+}

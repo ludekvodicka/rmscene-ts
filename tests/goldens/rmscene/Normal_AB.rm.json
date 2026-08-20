@@ -1,0 +1,356 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 1,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": true,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 1,
+      "mergesCount": 0,
+      "minVersion": 0,
+      "textCharsCount": 3,
+      "textLinesCount": 1,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "blockType": 7,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "rootText",
+      "minVersion": 1,
+      "value": {
+        "items": {
+          "items": [
+            {
+              "deletedLength": 0,
+              "itemId": {
+                "part1": 1,
+                "part2": "16"
+              },
+              "leftId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "rightId": {
+                "part1": 0,
+                "part2": "0"
+              },
+              "value": "AB"
+            }
+          ],
+          "order": [
+            {
+              "part1": 1,
+              "part2": "16"
+            }
+          ]
+        },
+        "kind": "text",
+        "posX": {
+          "$float64": "c07d400000000000"
+        },
+        "posY": {
+          "$float64": "406d400000000000"
+        },
+        "styles": [
+          {
+            "characterId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "style": {
+              "timestamp": {
+                "part1": 1,
+                "part2": "15"
+              },
+              "value": {
+                "name": "PLAIN",
+                "value": 1
+              }
+            }
+          }
+        ],
+        "width": {
+          "$float64": "408d400000000000"
+        }
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "11"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    }
+  ],
+  "text": {
+    "contents": [
+      {
+        "contents": [
+          {
+            "ids": [
+              {
+                "part1": 1,
+                "part2": "16"
+              },
+              {
+                "part1": 1,
+                "part2": "17"
+              }
+            ],
+            "properties": {
+              "font-style": "normal",
+              "font-weight": "normal"
+            },
+            "text": "AB"
+          }
+        ],
+        "startId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "style": {
+          "timestamp": {
+            "part1": 1,
+            "part2": "15"
+          },
+          "value": {
+            "name": "PLAIN",
+            "value": 1
+          }
+        }
+      }
+    ]
+  },
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "13"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [],
+                "order": []
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "12"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "11"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "13"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    "rootText": true,
+    "sceneInfo": null
+  }
+}

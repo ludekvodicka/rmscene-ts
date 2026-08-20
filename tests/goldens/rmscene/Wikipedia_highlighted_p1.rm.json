@@ -1,0 +1,581 @@
+{
+  "blocks": [
+    {
+      "authorUuids": [
+        {
+          "authorId": 1,
+          "uuid": "495ba59f-c943-2b5c-b455-3682f6948906"
+        }
+      ],
+      "blockType": 9,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "authorIds",
+      "minVersion": 1
+    },
+    {
+      "blockType": 0,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isDevice": true,
+      "kind": "migrationInfo",
+      "migrationId": {
+        "part1": 1,
+        "part2": "1"
+      },
+      "minVersion": 1,
+      "unknown": false
+    },
+    {
+      "blockType": 10,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "kind": "pageInfo",
+      "loadsCount": 1,
+      "mergesCount": 0,
+      "minVersion": 0,
+      "textCharsCount": 0,
+      "textLinesCount": 0,
+      "typeFolioUseCount": 0
+    },
+    {
+      "blockType": 1,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "isUpdate": true,
+      "kind": "sceneTree",
+      "minVersion": 1,
+      "nodeId": {
+        "part1": 0,
+        "part2": "0"
+      },
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "treeId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": ""
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "1"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 2,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "group": {
+        "children": {
+          "items": [],
+          "order": []
+        },
+        "kind": "group",
+        "label": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "12"
+          },
+          "value": "Layer 1"
+        },
+        "nodeId": {
+          "part1": 0,
+          "part2": "11"
+        },
+        "visible": {
+          "timestamp": {
+            "part1": 0,
+            "part2": "0"
+          },
+          "value": true
+        }
+      },
+      "kind": "treeNode",
+      "minVersion": 1
+    },
+    {
+      "blockType": 4,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 0,
+          "part2": "13"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "part1": 0,
+          "part2": "11"
+        }
+      },
+      "kind": "sceneGroupItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "1"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "14"
+        },
+        "leftId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "YELLOW",
+            "value": 3
+          },
+          "kind": "glyphRange",
+          "length": 36,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "404c26f445758000"
+              },
+              "width": {
+                "$float64": "4084efa094c72a20"
+              },
+              "x": {
+                "$float64": "c08950e691d60412"
+              },
+              "y": {
+                "$float64": "4084befe7bdb7a00"
+              }
+            }
+          ],
+          "start": 821,
+          "text": "The reMarkable uses electronic paper"
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "15"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "14"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "YELLOW",
+            "value": 3
+          },
+          "kind": "glyphRange",
+          "length": 54,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "404c26f445758000"
+              },
+              "width": {
+                "$float64": "408ffc2410451ee0"
+              },
+              "x": {
+                "$float64": "c0894496ba5cf552"
+              },
+              "y": {
+                "$float64": "40997faa1e82c200"
+              }
+            }
+          ],
+          "start": 1420,
+          "text": "ReMarkable uses its own operating system, named Codex."
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "16"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "15"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "YELLOW",
+            "value": 3
+          },
+          "kind": "glyphRange",
+          "length": 58,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "404c26f445758000"
+              },
+              "width": {
+                "$float64": "4090026641fc9050"
+              },
+              "x": {
+                "$float64": "c089479776bed212"
+              },
+              "y": {
+                "$float64": "409a33d6dcc7d400"
+              }
+            }
+          ],
+          "start": 1476,
+          "text": "Codex is based on Linux and optimized for electronic paper"
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    },
+    {
+      "blockType": 3,
+      "currentVersion": 1,
+      "extraData": {
+        "$bytes": ""
+      },
+      "extraValueData": {
+        "$bytes": ""
+      },
+      "item": {
+        "deletedLength": 0,
+        "itemId": {
+          "part1": 1,
+          "part2": "17"
+        },
+        "leftId": {
+          "part1": 1,
+          "part2": "16"
+        },
+        "rightId": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": {
+          "color": {
+            "name": "YELLOW",
+            "value": 3
+          },
+          "kind": "glyphRange",
+          "length": 23,
+          "rectangles": [
+            {
+              "height": {
+                "$float64": "404c26f445758000"
+              },
+              "width": {
+                "$float64": "4074d8af145b3680"
+              },
+              "x": {
+                "$float64": "c089487e15a8fab2"
+              },
+              "y": {
+                "$float64": "409af0756d082300"
+              }
+            },
+            {
+              "height": {
+                "$float64": "4040b60c613e6000"
+              },
+              "width": {
+                "$float64": "404d1c2ccdcec800"
+              },
+              "x": {
+                "$float64": "c07e582d4463b4e4"
+              },
+              "y": {
+                "$float64": "409b09bef7165280"
+              }
+            }
+          ],
+          "start": 1536,
+          "text": "display technology.[13]"
+        }
+      },
+      "kind": "sceneGlyphItem",
+      "minVersion": 1,
+      "parentId": {
+        "part1": 0,
+        "part2": "11"
+      }
+    }
+  ],
+  "text": null,
+  "tree": {
+    "root": {
+      "children": {
+        "items": [
+          {
+            "deletedLength": 0,
+            "itemId": {
+              "part1": 0,
+              "part2": "13"
+            },
+            "leftId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "rightId": {
+              "part1": 0,
+              "part2": "0"
+            },
+            "value": {
+              "children": {
+                "items": [
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "14"
+                    },
+                    "leftId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "15"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "14"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "16"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "15"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  },
+                  {
+                    "deletedLength": 0,
+                    "itemId": {
+                      "part1": 1,
+                      "part2": "17"
+                    },
+                    "leftId": {
+                      "part1": 1,
+                      "part2": "16"
+                    },
+                    "rightId": {
+                      "part1": 0,
+                      "part2": "0"
+                    },
+                    "value": {
+                      "kind": "glyphRange"
+                    }
+                  }
+                ],
+                "order": [
+                  {
+                    "part1": 1,
+                    "part2": "14"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "15"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "16"
+                  },
+                  {
+                    "part1": 1,
+                    "part2": "17"
+                  }
+                ]
+              },
+              "kind": "group",
+              "label": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "12"
+                },
+                "value": "Layer 1"
+              },
+              "nodeId": {
+                "part1": 0,
+                "part2": "11"
+              },
+              "visible": {
+                "timestamp": {
+                  "part1": 0,
+                  "part2": "0"
+                },
+                "value": true
+              }
+            }
+          }
+        ],
+        "order": [
+          {
+            "part1": 0,
+            "part2": "13"
+          }
+        ]
+      },
+      "kind": "group",
+      "label": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": ""
+      },
+      "nodeId": {
+        "part1": 0,
+        "part2": "1"
+      },
+      "visible": {
+        "timestamp": {
+          "part1": 0,
+          "part2": "0"
+        },
+        "value": true
+      }
+    },
+    "rootText": false,
+    "sceneInfo": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "files": {
+    "paper-pro/paper-pro-empty.rm": {
+      "length": 431,
+      "sha256": "d709a1b04226576929b9b1f94f2c9991f8c7d971535bf5c0189809b970e63049",
+      "version": "3.27.3.0"
+    },
+    "paper-pro/paper-pro-shader-nested-extra.rm": {
+      "length": 44463,
+      "sha256": "ebfcc136468215c1d990ad2aaf13dbc31af0c99c46f67da18a83b50c3a35b1ef",
+      "version": "3.27.3.0"
+    },
+    "paper-pro/paper-pro-text-formatting.rm": {
+      "length": 34784,
+      "sha256": "aab93620362ea536dd334e97056a7d0cef9e94132b77d4adfd363377b981bf02",
+      "version": "3.27.3.0"
+    },
+    "paper-pro/paper-pro-text-highlighter-overflow.rm": {
+      "length": 89265,
+      "sha256": "067149d3083ec643fcf1b7cd5feb9f453d090e3f99f4ae2c6e8cae42a72aa7e3",
+      "version": "3.27.3.0"
+    },
+    "rmscene/Bold_Heading_Bullet_Normal.rm": {
+      "length": 633,
+      "sha256": "2b0322e703b85ef84b764df4a93a44ca43a0f2b0b98371be64cd9a2adefade66",
+      "version": "3.0"
+    },
+    "rmscene/Color_and_tool_v3.14.4.rm": {
+      "length": 21855,
+      "sha256": "623bd0aec7448a1eda5ef9e8221e2be4932fb9c18f56450c2e14ec580fb16ce6",
+      "version": "3.14"
+    },
+    "rmscene/Lines_v2.rm": {
+      "length": 7475,
+      "sha256": "afd2eeb84d2b9afb02c7f98844b431b7b06ee31fd12215ea00d71fa75f1fb867",
+      "version": "3.1"
+    },
+    "rmscene/Lines_v2_updated.rm": {
+      "length": 7755,
+      "sha256": "bfe33f010b2738f8de3b25f0c07d749f1876daa5ddd63275f496047708471a01",
+      "version": "3.2"
+    },
+    "rmscene/More_color_highlight_shader_v3.15.4.2.rm": {
+      "length": 12649,
+      "sha256": "a91cb41a1b621d10260c1799dd9a3ee95f3731c4d1fee2e00c8584c1e62bd8a0",
+      "version": "3.15"
+    },
+    "rmscene/Normal_AB.rm": {
+      "length": 358,
+      "sha256": "4c9f5ebd49fefc301a18900b7d2d1fc4e7a58260f6ae40b809f9d6c0580b3b20",
+      "version": "3.0"
+    },
+    "rmscene/Normal_A_stroke_2_layers.rm": {
+      "length": 1196,
+      "sha256": "ac9574b43f93c435d2d4be063b646994e04f79dcaa78349eaa0e4b625b4d130d",
+      "version": "3.0"
+    },
+    "rmscene/Normal_A_stroke_2_layers_v3.2.2.rm": {
+      "length": 1877,
+      "sha256": "4699dee8b707cc4c89fc5043a64b0fb59913867f11d35343a77a05159c076990",
+      "version": "3.2.2"
+    },
+    "rmscene/Normal_A_stroke_2_layers_v3.3.2.rm": {
+      "length": 5403,
+      "sha256": "f58d59e265afe6146df330498cf5cfaf0347290c65c56045e7f286464b332dc6",
+      "version": "3.3.2"
+    },
+    "rmscene/Wikipedia_highlighted_p1.rm": {
+      "length": 821,
+      "sha256": "e46804022b5e9e35e820c15450cf2b96bfe159f84801216e0193f4e749218bcd",
+      "version": "3.1"
+    },
+    "rmscene/Wikipedia_highlighted_p2.rm": {
+      "length": 524,
+      "sha256": "e7627eb0777b14a8db1ea1ab8045be4e6660019e52569b0915b8265d6e54ddbe",
+      "version": "3.1"
+    },
+    "rmscene/With_SceneInfo_Block.rm": {
+      "length": 7113,
+      "sha256": "cc11d4dd781db9a07c83f874deb7e25e379e3a50ec898cb67843e7184fb3e79c",
+      "version": "3.4"
+    },
+    "rmscene/test-crdt-ordering.rm": {
+      "length": 636,
+      "sha256": "dee7343f0dd1139f849b7c7bc26a9e72edd7c6b85d98fb8f8ba0420c93777e0c",
+      "version": "3.27.3.0"
+    }
+  },
+  "reference": {
+    "commit": "cf86cf0374ca43a53477dd27c65fe2e70e6b4750",
+    "version": "0.8.0"
+  },
+  "simpleTextDocument": {
+    "length": 358,
+    "sha256": "4c9f5ebd49fefc301a18900b7d2d1fc4e7a58260f6ae40b809f9d6c0580b3b20",
+    "version": "3.0"
+  }
+}

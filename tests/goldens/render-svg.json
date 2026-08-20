@@ -1,0 +1,19 @@
+{
+  "rmscene/Bold_Heading_Bullet_Normal.rm": { "sha256": "93166d1ab1ce177848532b83565758ff953ca03d8836074d7ff62fe2d8141d90", "viewBox": { "x": -702, "y": 0, "width": 1404, "height": 1872 }, "strokeCount": 0 },
+  "rmscene/Color_and_tool_v3.14.4.rm": { "sha256": "c05a6317a77b0b9ac084ff24f2c7af8d5ffc458fa1b465905a4e0e51b5219bc3", "viewBox": { "x": -810, "y": 0, "width": 1620, "height": 2160 }, "strokeCount": 25 },
+  "rmscene/Lines_v2.rm": { "sha256": "27a4dc40136b5e5b5db69a46a54d9259e97c67b68c392a4583034d7f278a7175", "viewBox": { "x": -702, "y": 0, "width": 1404, "height": 1872 }, "strokeCount": 10 },
+  "rmscene/Lines_v2_updated.rm": { "sha256": "423434ce8a0b70c4704f32218d6b8af543b2c38ae3296ee375a64ec7510585b3", "viewBox": { "x": -702, "y": -202, "width": 1404, "height": 2074 }, "strokeCount": 10 },
+  "rmscene/More_color_highlight_shader_v3.15.4.2.rm": { "sha256": "7f7130f372cb7a4bf72c89d8ad6270a2aca7f5c52225847520c3b7d058641830", "viewBox": { "x": -810, "y": 0, "width": 1620, "height": 2160 }, "strokeCount": 23 },
+  "rmscene/Normal_AB.rm": { "sha256": "7cdfd8758775ee3c32e5d8c1cbfa36ed2c2ad80e12f76f305b6e0cf87f80c8a0", "viewBox": { "x": -702, "y": 0, "width": 1404, "height": 1872 }, "strokeCount": 0 },
+  "rmscene/Normal_A_stroke_2_layers.rm": { "sha256": "f04cd83f8a791a347d8fef2856ca1eb5b47c8430e1aefaaf79833403715ed107", "viewBox": { "x": -702, "y": -52, "width": 1404, "height": 1924 }, "strokeCount": 2 },
+  "rmscene/Normal_A_stroke_2_layers_v3.2.2.rm": { "sha256": "82840c10859080515ce7e3ce30c786e5072c7a06f27ff1b3023eadd32a1b98e9", "viewBox": { "x": -702, "y": -52, "width": 1404, "height": 1924 }, "strokeCount": 3 },
+  "rmscene/Normal_A_stroke_2_layers_v3.3.2.rm": { "sha256": "a57de7e5d94c4353f39abf93a18921dbc4ebf14f67870182df46d9a588bd4b3a", "viewBox": { "x": -702, "y": -57, "width": 1404, "height": 1929 }, "strokeCount": 9 },
+  "rmscene/Wikipedia_highlighted_p1.rm": { "sha256": "8b64eb8471c4e873d4491276c6f7cad38983b84b4c818174405f16a69c2ad5d0", "viewBox": { "x": -831, "y": 0, "width": 1533, "height": 1872 }, "strokeCount": 0 },
+  "rmscene/Wikipedia_highlighted_p2.rm": { "sha256": "44b3bf0857764090b4158b3ec4729937f3203d3f292cc1f9daf46b5a8b534683", "viewBox": { "x": -718, "y": 0, "width": 1508, "height": 2086 }, "strokeCount": 0 },
+  "rmscene/With_SceneInfo_Block.rm": { "sha256": "9377c1c668fd843d82893dec63c9d0b4c50b8fd5edb74fdefd9c631db54c1da4", "viewBox": { "x": -702, "y": -223, "width": 1404, "height": 2095 }, "strokeCount": 13 },
+  "rmscene/test-crdt-ordering.rm": { "sha256": "c26432874fa329157454e7189dcd60caa25fb5f586b4c1c18612ab03049b68bc", "viewBox": { "x": -702, "y": 0, "width": 1404, "height": 1872 }, "strokeCount": 0 },
+  "paper-pro/paper-pro-empty.rm": { "sha256": "3ad79b65814de74e9e6135490e1ccbf01e51e0199cf0b2419da2d88ca57d4d89", "viewBox": { "x": -810, "y": 0, "width": 1620, "height": 2160 }, "strokeCount": 0 },
+  "paper-pro/paper-pro-shader-nested-extra.rm": { "sha256": "d8f6d92533687c10cc7e4910f0fc990f7ae5f0ebb55d99375b48c5fbbb0b498c", "viewBox": { "x": -922, "y": -122, "width": 1844, "height": 2444 }, "strokeCount": 63 },
+  "paper-pro/paper-pro-text-formatting.rm": { "sha256": "2a1434dac00e36c71f3acaff58cdb11a851ee86523e89c30c5b10ea627a1847c", "viewBox": { "x": -921, "y": -121, "width": 1842, "height": 2442 }, "strokeCount": 91 },
+  "paper-pro/paper-pro-text-highlighter-overflow.rm": { "sha256": "cc7d1b9c81046bc541fcda54852b7e6adb016ea3e22c92276a3838d638cfea4a", "viewBox": { "x": -923, "y": -123, "width": 1846, "height": 2446 }, "strokeCount": 154 }
+}
