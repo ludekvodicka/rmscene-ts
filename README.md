@@ -201,11 +201,18 @@ pinned `../rmscene` checkout. Fixture provenance is in
 [`tests/fixtures/README.md`](tests/fixtures/README.md). The codec design is in
 [`docs/architecture/rm-v6-codec.md`](docs/architecture/rm-v6-codec.md).
 
-## Related package and exclusions
+## The three packages
+
+| Package | What it does |
+| --- | --- |
+| [`rmscene-ts`](https://github.com/ludekvodicka/rmscene-ts) ([npm](https://www.npmjs.com/package/rmscene-ts)) | Reads, writes and renders `.rm` version 6 scene files. No filesystem, no network, browser-safe. |
+| [`rmcommunication-ts`](https://github.com/ludekvodicka/rmcommunication-ts) ([npm](https://www.npmjs.com/package/rmcommunication-ts)) | Talks to the tablet over pinned SSH: listings, verified rmdoc backups, page rendering, templates, PNG, PDF and EPUB import. |
+| [`remarkable-cli`](https://github.com/ludekvodicka/rmcli) ([npm](https://www.npmjs.com/package/remarkable-cli)) | The `rmcli` command line over both libraries. |
+
+None of them implements the reMarkable Cloud protocol.
 
 Direct SSH/SFTP, document bundles, backups, templates, PNG output, mirror, and guarded page writeback
-belong to the separate `rmcommunication-ts` package. Neither package implements the reMarkable Cloud
-protocol.
+belong to `rmcommunication-ts`, not here.
 
 ## License and lineage
 
