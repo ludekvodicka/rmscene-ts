@@ -2,7 +2,14 @@
 
 Every release records the exact `rmscene` revision it follows.
 
-## 0.1.0 - unreleased
+## 0.1.1 - 2026-08-20
+
+- Documents the lineage in the README: what the TypeScript rewrite fixes for Paper Pro, what it adds on
+  top of the Python library, and the Rust parser that was evaluated and rejected.
+- Links the three packages of the family to each other.
+- Records the approved `esbuild` install script, which npm 12 otherwise skips.
+
+## 0.1.0 - 2026-08-20
 
 Tracks [`rmscene` 0.8.0](https://github.com/ricklupton/rmscene/tree/v0.8.0) at commit
 [`cf86cf0374ca43a53477dd27c65fe2e70e6b4750`](https://github.com/ricklupton/rmscene/commit/cf86cf0374ca43a53477dd27c65fe2e70e6b4750).

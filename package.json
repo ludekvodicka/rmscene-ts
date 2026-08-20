@@ -1,6 +1,6 @@
 {
   "name": "rmscene-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read, write, and render reMarkable .rm version 6 files in TypeScript",
   "keywords": [
     "remarkable",
